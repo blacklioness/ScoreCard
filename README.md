@@ -1,2 +1,3 @@
 # ScoreCard
-Test project
+Formuliertje om score test-examen bij te houden
+
